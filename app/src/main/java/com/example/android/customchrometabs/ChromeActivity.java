@@ -100,6 +100,7 @@ public class ChromeActivity extends AppCompatActivity {
             url.add("https://www.audible.com/");
             url.add("https://www.imdb.com");
             url.add("https://www.rottentomatoes.com");
+            url.add("https://www.crunchyroll.com");
 
             //utilities (search engines, code sharing, messaging, etc.)
             url.add("https://github.com/BVShe001");
