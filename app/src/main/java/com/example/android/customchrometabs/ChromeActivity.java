@@ -173,6 +173,7 @@ public class ChromeActivity extends AppCompatActivity {
 			url.add("https://ocw.mit.edu/index.htm") 
 			url.add("https://www.khanacademy.org/") 
 			url.add("https://www.theodinproject.com")
+         url.add("https://die.net");
 			      
 
         CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
