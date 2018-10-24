@@ -3,4 +3,50 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <item name="seaGreen" type="color">#068481</item>
+    <item name="mouthwash" type="color">#01C5BB</item>
+    <item name="manganeseblue" type="color">#03A89E</item>
+    <item name="turquoise" type="color">#40E0D0</item>
+    <item name="atlanticGreen" type="color">#2A8E82</item>
+    <item name="blueLagoon" type="color">#4CB7A5</item>
+    <item name="greenGables" type="color">#3E766D</item>
+    <item name="mastersJacket" type="color">#174038</item>
+    <item name="gardenHose" type="color">#138F6A</item>
+    <item name="greencopper" type="color">#527F76</item>
+    <item name="signGreen" type="color">#006B54</item>
+    <item name="turquoiseblue" type="color">#00C78C</item>
+    <item name="indigo" type="color">#218868</item>
+    <item name="mediumAquamarine" type="color">#32CC99</item>
+    <item name="octopus" type="color">#34925E</item>
+    <item name="emeraldgreen" type="color">#00C957</item>
+    <item name="starbucks" type="color">#006633</item>
+    <item name="isleRoyaleGreenstone" type="color">#426352</item>
+    <item name="cucumber" type="color">#2C5D3F</item>
+
+
+    <integer-array name="androidcolors">
+        <item>@color/seaGreen</item>
+        <item>@color/mouthwash</item>
+        <item>@color/manganeseblue</item>
+        <item>@color/turquoise</item>
+        <item>@color/atlanticGreen</item>
+        <item>@color/blueLagoon</item>
+        <item>@color/greenGables</item>
+        <item>@color/mastersJacket</item>
+        <item>@color/gardenHose</item>
+        <item>@color/greencopper</item>
+        <item>@color/signGreen</item>
+        <item>@color/turquoiseblue</item>
+        <item>@color/indigo</item>
+        <item>@color/mediumAquamarine</item>
+        <item>@color/octopus</item>
+        <item>@color/emeraldgreen</item>
+        <item>@color/starbucks</item>
+        <item>@color/isleRoyaleGreenstone</item>
+        <item>@color/cucumber</item>
+
+
+    </integer-array>
 </resources>
+
